@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/aws_counter.iml" filepath="$PROJECT_DIR$/.idea/aws_counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../guardian_gauge/.idea/guardian_gauge.iml" filepath="$PROJECT_DIR$/../guardian_gauge/.idea/guardian_gauge.iml" />
     </modules>
   </component>
 </project>
